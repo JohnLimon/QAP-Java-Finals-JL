@@ -1,0 +1,29 @@
+body {
+  background-color: rgb(85, 211, 239);
+  margin: 40pt;
+  font-family: sans-serif;
+}
+
+li {
+  font-size: 13pt;
+  font: rgb(42, 41, 41);
+  list-style-type:disc
+  
+}
+
+h1 {
+  text-decoration: underline;
+  text-align: center;
+  color: black;
+}
+
+h2 {
+  color: black;
+  text-decoration: underline;
+  
+}
+
+h3 {
+  text-align: center;
+  color: black;
+}

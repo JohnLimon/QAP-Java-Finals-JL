@@ -1,0 +1,56 @@
+[
+  {
+    "fName": "Zoie",
+    "lName": "Limon",
+    "phoneNum": "709-770-5336",
+    "gender": "female",
+    "roomPreferences": "Ocean View",
+    "roomRate": 150,
+    "checkinDate": "2023-08-20"
+    },
+  {
+    "fName": "Zeia",
+    "lName": "Limon",
+    "phoneNum": "709-444-5555",
+    "gender": "female",
+    "roomPreferences": "Pool View",
+    "roomRate": 120,
+    "checkinDate": "2023-08-30"
+    },
+  {
+    "fName": "Zione",
+    "lName": "Limon",
+    "phoneNum": "709-123-6789",
+    "gender": "male",
+    "roomPreferences": "City View",
+    "roomRate": 130,
+    "checkinDate": "2023-09-10"
+    },
+  {
+    "fName": "Zaira",
+    "lName": "Limon",
+    "phoneNum": "709-345-1234",
+    "gender": "female",
+    "roomPreferences": "Ocean View",
+    "roomRate": 150,
+    "checkinDate": "2023-09-20"
+    },
+  {
+    "fName": "John",
+    "lName": "Limon",
+    "phoneNum": "709-222-3333",
+    "gender": "male",
+    "roomPreferences": "Pool View",
+    "roomRate": 120,
+    "checkinDate": "2023-09-30"
+    },
+  {
+    "fName": "Ben",
+    "lName": "Limon",
+    "phoneNum": "709-999-4444",
+    "gender": "male",
+    "roomPreferences": "City View",
+    "roomRate": 130,
+    "checkinDate": "2023-09-25"
+    } 
+]
